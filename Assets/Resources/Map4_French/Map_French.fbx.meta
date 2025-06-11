@@ -3,7 +3,37 @@ guid: b5cff742fecafe841aa0dba7d7588958
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Eiffel_Tower_v1_max2010_it1__Eiffel_Tower_v3
+    second: {fileID: 2100000, guid: 6477547f67e120b4581c2603b5235608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house_01
+    second: {fileID: 2100000, guid: a69f1fe093a845849b385299838f195f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: e2d7c1e554672194eb6e53486fec222e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: restaurant
+    second: {fileID: 2100000, guid: 9967f54188f8fc245b0c7e9badf78e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: eb61f7063e0be0645b1e5da0289f03f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_walk
+    second: {fileID: 2100000, guid: 4827c264dcb965f40bf1c97a6faa8cf8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
