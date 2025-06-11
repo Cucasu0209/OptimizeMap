@@ -3,7 +3,17 @@ guid: 716e4bbea7987794d96023ea93161d05
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gradiant
+    second: {fileID: 2100000, guid: cdbff3484ec7cef4395d2e8efd275483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidewalk_tex
+    second: {fileID: 2100000, guid: 8cb10e59308fbf1489cd8e0ddbf672ee, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
