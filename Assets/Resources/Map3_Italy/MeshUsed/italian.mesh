@@ -6,7 +6,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: model_0_Mesh
+  m_Name: italian
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
